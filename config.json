@@ -1,10 +1,18 @@
 {
   "resources": [
     {
-      "title": "剪映高级版",
-      "desc": "视频剪辑工具",
-      "cover": "https://example.com/1.jpg",
-      "link": "https://pan.quark.cn/xxx"
+      "title": "测试资源",
+      "desc": "这是一个测试资源",
+      "cover": "https://picsum.photos/300/200",
+      "link": "https://example.com",
+      "tag": "测试"
+    },
+    {
+      "title": "AI绘图工具",
+      "desc": "AI绘图与图片生成",
+      "cover": "https://picsum.photos/300/201",
+      "link": "https://example.com",
+      "tag": "AI"
     }
   ]
 }

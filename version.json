@@ -1,6 +1,5 @@
 {
-  "latestVersion": "0.1.0"，
-  "minVersion": "0.1.0",
+  "minVersion": "0.1.0"，
   "forceUpdate": false,
   "appName": "\u6c34\u5370\u9e2d",
   "apkSize": "16MB",
@@ -10,5 +9,6 @@
     "baidu": "https://pan.baidu.com/xxx",
     "quark": "https://pan.quark.cn/xxx",
     "xunlei": "https://pan.xunlei.com/xxx"
-  }
+  },
+  "latestVersion": "0.1.0"
 }

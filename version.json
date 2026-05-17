@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.1",
-  "minVersion": "1.0.0",
-  "forceUpdate": true,
+  "latestVersion": "0.1.0"，
+  "minVersion": "0.1.0",
+  "forceUpdate": false,
   "appName": "水印鸭",
   "apkSize": "16MB",
-  "oldVersion": "1.0.0",
-  "updateText": "新增抖音解析，优化下载稳定性",
+  "oldVersion": "0.1.0",
+  "updateText": "开发测试：暂不提示更新",
   "downloadLinks": {
     "baidu": "https://pan.baidu.com/xxx",
     "quark": "https://pan.quark.cn/xxx",

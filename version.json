@@ -20,6 +20,21 @@
       "name": "迅雷网盘",
       "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
       "primary": true
+    },
+    {
+      "name": "UC 网盘",
+      "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
+      "primary": false
+    },
+    {
+      "name": "夸克网盘",
+      "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
+      "primary": false
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
+      "primary": false
     }
   ],
   "maintenance": {

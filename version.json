@@ -1,16 +1,14 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 120,
-  "latestVersionName": "1.2.1",
+  "latestVersionCode": 119,
+  "latestVersionName": "1.2.0-canonical-b1-dev",
   "minimumSupportedVersionCode": 119,
-  "updateMode": "force",
-  "title": "需要更新后继续使用",
-  "message": "当前版本已有重要更新，请下载最新版后继续使用。",
+  "updateMode": "none",
+  "title": "当前已是最新版本",
+  "message": "当前版本可正常使用。",
   "releaseNotes": [
-    "启用强制更新链路",
-    "测试 GitHub 远程版本控制",
-    "不影响抖音、小红书、B站普通视频解析"
+    "临时关闭强制更新，用于 C1A 三平台真机回归测试"
   ],
   "apkSize": "18 MB",
   "sha256": "",
@@ -20,21 +18,6 @@
       "name": "迅雷网盘",
       "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
       "primary": true
-    },
-    {
-      "name": "UC 网盘",
-      "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
-      "primary": false
-    },
-    {
-      "name": "夸克网盘",
-      "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
-      "primary": false
-    },
-    {
-      "name": "百度网盘",
-      "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
-      "primary": false
     }
   ],
   "maintenance": {

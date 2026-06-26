@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 120,
-  "latestVersionName": "1.2.1",
-  "minimumSupportedVersionCode": 119,
+  "latestVersionCode": 121,
+  "latestVersionName": "1.2.2",
+  "minimumSupportedVersionCode": 120,
   "updateMode": "force",
   "title": "需要更新后继续使用",
-  "message": "当前版本已有重要更新，请下载最新版后继续使用。",
+  "message": "当前版本已升级统计与稳定性能力，请下载最新版后继续使用。",
   "releaseNotes": [
-    "发布正式版水印鸭 1.2.1",
-    "支持抖音、小红书、B站普通视频解析保存",
-    "启用正式 release 签名和远程强制更新"
+    "新增匿名装机与活跃统计能力",
+    "接入水印鸭数据看板",
+    "优化正式版版本展示与稳定性"
   ],
   "apkSize": "1.7 MB",
-  "sha256": "bb6db93330607aa4450b9743afa20b54850db26a761ae18a194ee4677cb264ba",
+  "sha256": "0e2e49fbd69a0770107c3d6951d3638980bab395e4ce22ed794f915870b629c5",
   "publishedAt": "2026-06-26",
   "downloadChannels": [
     {
@@ -22,6 +22,12 @@
       "primary": true
     }
   ],
+  "analytics": {
+    "enabled": true,
+    "endpoint": "https://analytics.milodev.cn/collect",
+    "sampleRate": 1.0,
+    "collectorKey": "9ef81ba7ffa3a8f30a7926cfb5feffb61de9e8b162c7b2478df4b3d263b0b45e"
+  },
   "maintenance": {
     "enabled": false,
     "title": "",

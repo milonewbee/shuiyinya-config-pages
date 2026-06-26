@@ -8,17 +8,17 @@
   "title": "需要更新后继续使用",
   "message": "当前版本已有重要更新，请下载最新版后继续使用。",
   "releaseNotes": [
-    "启用强制更新链路",
-    "测试 GitHub 远程版本控制",
-    "不影响抖音、小红书、B站普通视频解析"
+    "发布正式版水印鸭 1.2.1",
+    "支持抖音、小红书、B站普通视频解析保存",
+    "启用正式 release 签名和远程强制更新"
   ],
   "apkSize": "1.7 MB",
-  "sha256": "998b28d7febd86e91bf9e3cfceca90c2560269775412dccfb0020e4f8d4d8807",
+  "sha256": "bb6db93330607aa4450b9743afa20b54850db26a761ae18a194ee4677cb264ba",
   "publishedAt": "2026-06-26",
   "downloadChannels": [
     {
       "name": "迅雷网盘",
-      "url": "https://pan.xunlei.com/s/VOvybKf_Hf-Q7fkV5X5J-p2_A1?pwd=82fe#",
+      "url": "https://pan.xunlei.com/s/VOw1oyIN0PX7D-20T6SXYRPkA1?pwd=j89r#",
       "primary": true
     }
   ],

@@ -1,24 +1,26 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 121,
-  "latestVersionName": "1.2.2",
-  "minimumSupportedVersionCode": 120,
+  "latestVersionCode": 122,
+  "latestVersionName": "1.2.3",
+  "minimumSupportedVersionCode": 121,
   "updateMode": "force",
   "title": "需要更新后继续使用",
-  "message": "当前版本已升级统计与稳定性能力，请下载最新版后继续使用。",
+  "message": "这次更新主要提升解析与保存稳定性，也方便后续持续维护。水印鸭不会加入广告。",
   "releaseNotes": [
-    "新增匿名装机与活跃统计能力",
-    "接入水印鸭数据看板",
-    "优化正式版版本展示与稳定性"
+    "解析和保存链路更稳定，修复部分保存失败与 403 问题",
+    "扩展主流平台普通视频解析保存能力",
+    "支持更多图集原图保存场景",
+    "优化下载进度、保存完成提示和失败反馈",
+    "为减少维护压力，旧版本将不再维护，请更新到最新版继续使用"
   ],
-  "apkSize": "1.7 MB",
-  "sha256": "0e2e49fbd69a0770107c3d6951d3638980bab395e4ce22ed794f915870b629c5",
-  "publishedAt": "2026-06-26",
+  "apkSize": "1.4 MB",
+  "sha256": "dbe196bbcf3825d7dec34484deb9fa2f8f2a3960e68ef1653849a852e46612a9",
+  "publishedAt": "2026-07-02",
   "downloadChannels": [
     {
       "name": "迅雷网盘",
-      "url": "https://pan.xunlei.com/s/VOw1oyIN0PX7D-20T6SXYRPkA1?pwd=j89r#",
+      "url": "https://pan.xunlei.com/s/VOwV8m_xn6RmpEionqlWzVqiA1?pwd=xibf#",
       "primary": true
     }
   ],

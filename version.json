@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "appId": "watermark-duck",
   "latestVersionCode": 123,
-  "latestVersionName": "1.2.4",
+  "latestVersionName": "1.2.4 · 1.6 MB",
   "minimumSupportedVersionCode": 100,
   "updateMode": "optional",
   "title": "发现新版本",
@@ -12,13 +12,13 @@
     "作品信息提取更完整：标题、文案、封面会随解析结果一起带出",
     "新增 X（推特）支持：视频、图片、GIF 都可以预览和保存",
     "新增小米社区视频支持，小众链接也尽量不放弃",
-    "小红书图片源重新优化，减少保存到带水印展示图的情况",
+    "小红书图集图片源维护：重新识别原图地址，减少保存到带水印展示图的情况",
     "新增意见反馈入口：遇到问题或想支持的平台，可以直接告诉水印鸭",
     "失败样本反馈更完整，平台变化时后续能更快定位、修复",
     "首页、预览和保存流程继续压缩，尽量少滑动、少绕路"
   ],
-  "apkSize": "1.6 MB",
-  "sha256": "594721add37f94d875fd4cafc9249797177402fdfa583af1b9baf6d80a0b2327",
+  "apkSize": "",
+  "sha256": "",
   "publishedAt": "2026-07-07",
   "downloadChannels": [
     {

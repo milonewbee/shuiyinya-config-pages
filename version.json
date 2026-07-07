@@ -1,28 +1,35 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 122,
-  "latestVersionName": "1.2.3",
-  "minimumSupportedVersionCode": 121,
-  "updateMode": "force",
-  "title": "需要更新后继续使用",
-  "message": "这次更新是为了让解析和保存更稳定，也让问题反馈更方便。请放心升级，水印鸭不会加入广告。",
+  "latestVersionCode": 123,
+  "latestVersionName": "1.2.4",
+  "minimumSupportedVersionCode": 100,
+  "updateMode": "optional",
+  "title": "发现新版本",
+  "message": "这次重点加强了解析维护能力：常用平台的识别、预览和保存链路都做了补强，标题、文案、封面等作品信息也会更完整地带出来。后续遇到平台变化时，水印鸭也能更快定位和补救。水印鸭会继续保持干净无广告，不会要求你看广告才能保存。",
   "releaseNotes": [
-    "新增失败样本反馈：解析或保存失败时，可提交样本帮助我们更快修复",
-    "扩展主流平台普通视频解析保存能力，更多分享链接可以直接处理",
-    "支持更多图集原图保存场景，图片保存更省心",
-    "优化下载进度与保存完成提示，保存状态更清楚",
-    "修复部分保存失败、HTTP 403 和平台识别问题",
-    "为了减少维护压力，旧版本将不再维护，请更新后继续使用"
+    "解析维护加强：抖音、快手、小红书、B站等已支持平台继续梳理适配",
+    "作品信息提取更完整：标题、文案、封面会随解析结果一起带出",
+    "新增 X（推特）支持：视频、图片、GIF 都可以预览和保存",
+    "新增小米社区视频支持，小众链接也尽量不放弃",
+    "小红书图片源重新优化，减少保存到带水印展示图的情况",
+    "新增意见反馈入口：遇到问题或想支持的平台，可以直接告诉水印鸭",
+    "失败样本反馈更完整，平台变化时后续能更快定位、修复",
+    "首页、预览和保存流程继续压缩，尽量少滑动、少绕路"
   ],
-  "apkSize": "1.4 MB",
-  "sha256": "dbe196bbcf3825d7dec34484deb9fa2f8f2a3960e68ef1653849a852e46612a9",
-  "publishedAt": "2026-07-02",
+  "apkSize": "1.6 MB",
+  "sha256": "594721add37f94d875fd4cafc9249797177402fdfa583af1b9baf6d80a0b2327",
+  "publishedAt": "2026-07-07",
   "downloadChannels": [
     {
       "name": "迅雷网盘",
       "url": "https://pan.xunlei.com/s/VOwV8m_xn6RmpEionqlWzVqiA1?pwd=xibf#",
       "primary": true
+    },
+    {
+      "name": "夸克网盘",
+      "url": "https://pan.quark.cn/s/b0f50ce469bb",
+      "primary": false
     }
   ],
   "analytics": {

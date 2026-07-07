@@ -4,7 +4,7 @@
   "latestVersionCode": 123,
   "latestVersionName": "1.2.4 · 1.6 MB",
   "minimumSupportedVersionCode": 100,
-  "updateMode": "none",
+  "updateMode": "optional",
   "title": "发现新版本",
   "message": "这次重点加强了解析维护能力：常用平台的识别、预览和保存链路都做了补强，标题、文案、封面等作品信息也会更完整地带出来。后续遇到平台变化时，水印鸭也能更快定位和补救。水印鸭会继续保持干净无广告，不会要求你看广告才能保存。",
   "releaseNotes": [

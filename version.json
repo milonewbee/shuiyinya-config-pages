@@ -1,25 +1,26 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 123,
-  "latestVersionName": "1.2.4 · 1.6 MB",
-  "minimumSupportedVersionCode": 100,
-  "updateMode": "optional",
+  "latestVersionCode": 200,
+  "latestVersionName": "2.0 · 1.6 MB",
+  "minimumSupportedVersionCode": 200,
+  "updateMode": "force",
   "title": "发现新版本",
-  "message": "这次更新重点修复了近期反馈较多的小红书图集问题：重新梳理原图识别和保存链路，减少解析成功但没有可保存内容、或保存到带水印展示图的情况。\n\n同时，常用平台的解析维护、标题文案封面提取、失败反馈和操作手感也做了加强。水印鸭会继续保持干净无广告，不会要求你看广告才能保存。",
+  "message": "这次是水印鸭解析能力的一次大升级，重磅补强视频号、公众号内容和 Live 图，更多平台链接也更稳了。水印鸭坚持干净体验，不加广告、不打扰使用。为了减轻维护成本，旧版本将不再维护，请更新到最新版本使用。",
   "releaseNotes": [
-    "小红书图集专项补救：增强原图地址识别，减少空结果和带水印展示图",
-    "解析维护加强：抖音、快手、小红书、B站等已支持平台继续梳理适配",
-    "作品信息提取更完整：标题、文案、封面会随解析结果一起带出",
-    "新增 X（推特）支持：视频、图片、GIF 都可以预览和保存",
-    "新增小米社区视频支持，小众链接也尽量不放弃",
-    "新增意见反馈入口：遇到问题或想支持的平台，可以直接告诉水印鸭",
-    "失败样本反馈更完整，平台变化时后续能更快定位、修复",
-    "操作手感优化：解析、保存、复制、粘贴、检查更新等关键动作加入轻量震动反馈"
+    "重磅更新：新增视频号解析，支持常见视频号视频保存。",
+    "新增公众号视频、贴图号图片、Live 图、图集解析。",
+    "强化小红书、抖音 Live 图解析，单张和多张 Live 图处理更稳定。",
+    "解析结果新增标题、文案、封面展示，支持复制文案和单独保存封面。",
+    "当前支持普通视频：抖音、快手、B站、小红书、最右、皮皮虾、微博、X、小米社区、视频号、公众号视频。",
+    "当前支持图集原图：抖音、快手、小红书、微博、X、小米社区、公众号贴图号。",
+    "当前支持 Live 图：抖音、小红书、微博、公众号贴图号。",
+    "当前支持 GIF 动图：X。",
+    "新增和完善更多平台识别：西瓜视频、QQ 频道等，后续会继续增强。"
   ],
   "apkSize": "",
   "sha256": "",
-  "publishedAt": "2026-07-07",
+  "publishedAt": "2026-07-09",
   "downloadChannels": [
     {
       "name": "迅雷网盘",
@@ -42,5 +43,15 @@
     "enabled": false,
     "title": "",
     "message": ""
+  },
+  "parserServices": {
+    "generic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_video": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/wechat-video"
+    }
   }
 }

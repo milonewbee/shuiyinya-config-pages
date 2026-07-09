@@ -44,12 +44,7 @@
     "title": "",
     "message": ""
   },
-  "platformPolicies": {
-    "wechat_mp": {
-      "enabled": false,
-      "message": "公众号内容正在切换稳定解析路线，请稍后重试"
-    }
-  },
+  "platformPolicies": {},
   "parserServices": {
     "generic": {
       "enabled": true,

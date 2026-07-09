@@ -46,10 +46,7 @@
   },
   "platformPolicies": {
     "wechat_mp": {
-      "disabledMediaTypes": [
-        "live",
-        "video"
-      ],
+      "enabled": false,
       "message": "公众号内容正在切换稳定解析路线，请稍后重试"
     }
   },

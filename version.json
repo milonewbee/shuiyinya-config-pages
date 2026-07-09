@@ -44,8 +44,21 @@
     "title": "",
     "message": ""
   },
+  "platformPolicies": {
+    "wechat_mp": {
+      "disabledMediaTypes": [
+        "live",
+        "video"
+      ],
+      "message": "公众号内容正在切换稳定解析路线，请稍后重试"
+    }
+  },
   "parserServices": {
     "generic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_mp": {
       "enabled": true,
       "endpoint": "https://analytics.milodev.cn/parse/public"
     },

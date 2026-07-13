@@ -57,6 +57,14 @@
     "wechat_video": {
       "enabled": true,
       "endpoint": "https://analytics.milodev.cn/parse/wechat-video"
+    },
+    "domestic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/domestic"
+    },
+    "doubao": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/doubao"
     }
   }
 }

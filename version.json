@@ -43,8 +43,11 @@
   },
   "platformPolicies": {
     "xiaohongshu": {
-      "disabledMediaTypes": [],
-      "message": ""
+      "disabledMediaTypes": [
+        "image",
+        "gallery"
+      ],
+      "message": "小红书图片原图解析维护中，请稍后再试"
     }
   },
   "parserServices": {

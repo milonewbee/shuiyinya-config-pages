@@ -1,26 +1,23 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 200,
-  "latestVersionName": "2.0 · 1.6 MB",
+  "latestVersionCode": 206,
+  "latestVersionName": "2.1",
   "minimumSupportedVersionCode": 200,
-  "updateMode": "force",
-  "title": "发现新版本",
-  "message": "这次是水印鸭解析能力的一次大升级，重磅补强视频号、公众号内容和 Live 图，更多平台链接也更稳了。水印鸭坚持干净体验，不加广告、不打扰使用。为了减轻维护成本，旧版本将不再维护，请更新到最新版本使用。",
+  "updateMode": "optional",
+  "title": "水印鸭 2.1 更新",
+  "message": "新增更多国内公开分享平台，并继续改进图集、Live 图、媒体保存、设置和问题反馈体验。水印鸭坚持干净体验，不加广告、不打扰使用。部分 Beta 能力仍会受公开来源和服务状态影响。",
   "releaseNotes": [
-    "重磅更新：新增视频号解析，支持常见视频号视频保存。",
-    "新增公众号视频、贴图号图片、Live 图、图集解析。",
-    "强化小红书、抖音 Live 图解析，单张和多张 Live 图处理更稳定。",
-    "解析结果新增标题、文案、封面展示，支持复制文案和单独保存封面。",
-    "当前支持普通视频：抖音、快手、B站、小红书、最右、皮皮虾、微博、X、小米社区、视频号、公众号视频。",
-    "当前支持图集原图：抖音、快手、小红书、微博、X、小米社区、公众号贴图号。",
-    "当前支持 Live 图：抖音、小红书、微博、公众号贴图号。",
-    "当前支持 GIF 动图：X。",
-    "新增和完善更多平台识别：西瓜视频、QQ 频道等，后续会继续增强。"
+    "支持抖音、快手、小红书、B站、微博、最右、皮皮虾、X（推特）、小米社区、西瓜视频、今日头条、QQ频道、贴吧、知乎、视频号、公众号、豆包、即梦、小云雀和剪映。",
+    "新增西瓜视频、今日头条、QQ频道、贴吧、知乎、即梦、剪映和小云雀等公开分享解析。",
+    "新增豆包公开视频无水印处理 Beta；能力受公开来源、处理额度和服务状态影响。",
+    "改进小红书、抖音、微博等平台的图集、Live 图识别与原图保存稳定性。",
+    "优化下载候选校验、保存进度和失败提示，减少损坏文件或错误媒体被当作成功结果。",
+    "优化设置页与意见反馈体验，键盘展开、弹层切换和页面返回更稳定。"
   ],
-  "apkSize": "",
-  "sha256": "",
-  "publishedAt": "2026-07-09",
+  "apkSize": "1.73 MB",
+  "sha256": "41fac993134c53f6dc24cd352b9581b8b62dd97c768a35bc128efeffbfa0513f",
+  "publishedAt": "2026-07-16",
   "downloadChannels": [
     {
       "name": "迅雷网盘",
@@ -36,7 +33,7 @@
   "analytics": {
     "enabled": true,
     "endpoint": "https://analytics.milodev.cn/collect",
-    "sampleRate": 1.0,
+    "sampleRate": 1,
     "collectorKey": "9ef81ba7ffa3a8f30a7926cfb5feffb61de9e8b162c7b2478df4b3d263b0b45e"
   },
   "maintenance": {

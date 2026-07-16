@@ -46,10 +46,8 @@
   },
   "platformPolicies": {
     "xiaohongshu": {
-      "disabledMediaTypes": [
-        "live"
-      ],
-      "message": "小红书 Live 图解析维护中，请稍后再试"
+      "disabledMediaTypes": [],
+      "message": ""
     }
   },
   "parserServices": {

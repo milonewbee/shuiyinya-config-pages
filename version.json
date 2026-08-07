@@ -44,7 +44,11 @@
     "title": "",
     "message": ""
   },
-  "platformPolicies": {},
+  "platformPolicies": {
+    "xiaohongshu": {
+      "route": "cloud_first"
+    }
+  },
   "parserServices": {
     "generic": {
       "enabled": true,

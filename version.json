@@ -46,7 +46,7 @@
   },
   "platformPolicies": {
     "xiaohongshu": {
-      "route": "local_first"
+      "route": "cloud_first"
     }
   },
   "parserServices": {

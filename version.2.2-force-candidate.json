@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "appId": "watermark-duck",
+  "latestVersionCode": 208,
+  "latestVersionName": "2.2",
+  "minimumSupportedVersionCode": 208,
+  "updateMode": "force",
+  "title": "水印鸭 2.2 必须更新",
+  "message": "修复小红书视频带水印、X 返回错误内容等问题，请更新后使用。为了减轻维护成本，旧版本将不再维护。水印鸭承诺：绝不添加广告。",
+  "releaseNotes": [
+    "修复小红书视频带水印的问题，现在保存的是无水印原片。",
+    "修复 X（推特）可能返回其他帖子内容的问题，改用官方接口取媒体。",
+    "抖音混排图集（部分 Live 图 + 部分普通图）现在可以整单保存，不再整条被拒。",
+    "小红书图集不再存成黑图，Live 图可同时保存原图与动态视频。",
+    "新增从其他 App 直接分享链接到水印鸭，自动识别平台并开始解析。",
+    "新增本地解析历史，可查看最近解析、随时开关与清空；记录只保存在本机。",
+    "解析失败时说明具体原因，不再抛出英文提示或错误代码。",
+    "为了减轻维护成本，旧版本将不再维护，请更新到最新版本使用。",
+    "水印鸭承诺：绝不添加广告。"
+  ],
+  "apkSize": "2.29 MB",
+  "sha256": "49a2c49e929f93e7dd6851d8c94d69e95f3512875067e967ee6e8662fcf46ef1",
+  "publishedAt": "2026-08-07",
+  "downloadChannels": [
+    {
+      "name": "迅雷网盘",
+      "url": "https://pan.xunlei.com/s/VOxegxfzh7rDnjeHMZoMRG5DA1?pwd=9sjd#",
+      "primary": true
+    },
+    {
+      "name": "夸克网盘",
+      "url": "https://pan.quark.cn/s/b0f50ce469bb",
+      "primary": false
+    }
+  ],
+  "analytics": {
+    "enabled": true,
+    "endpoint": "https://analytics.milodev.cn/collect",
+    "sampleRate": 1,
+    "collectorKey": "9ef81ba7ffa3a8f30a7926cfb5feffb61de9e8b162c7b2478df4b3d263b0b45e"
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "",
+    "message": ""
+  },
+  "platformPolicies": {},
+  "parserServices": {
+    "generic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_mp": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_video": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/wechat-video"
+    },
+    "domestic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/domestic"
+    },
+    "doubao": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/doubao"
+    }
+  }
+}

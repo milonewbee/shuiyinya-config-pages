@@ -5,7 +5,7 @@
   "latestVersionName": "2.2",
   "minimumSupportedVersionCode": 208,
   "updateMode": "force",
-  "title": "水印鸭 2.2",
+  "title": "水印鸭 2.2-208",
   "message": "水印鸭承诺：绝不添加广告。为了减轻维护成本，旧版本将不再维护，请更新到最新版本使用。",
   "releaseNotes": [
     "新增系统返回手势支持，可侧滑返回上一层。",
@@ -21,7 +21,7 @@
     "优化失败提示：不支持的链接类型给出具体说明，错误信息不再显示英文与状态码。"
   ],
   "apkSize": "2.29 MB",
-  "sha256": "49a2c49e929f93e7dd6851d8c94d69e95f3512875067e967ee6e8662fcf46ef1",
+  "sha256": "6876c256d7d9df1a2ff2e1a2ff0e7b38e6ec62465991dd9ca08bbf0f1f114560",
   "publishedAt": "2026-08-07",
   "downloadChannels": [
     {

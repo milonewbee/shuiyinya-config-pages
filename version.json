@@ -46,7 +46,11 @@
     "title": "",
     "message": ""
   },
-  "platformPolicies": {},
+  "platformPolicies": {
+    "douyin": {
+      "route": "cloud_first"
+    }
+  },
   "parserServices": {
     "generic": {
       "enabled": true,

@@ -22,13 +22,13 @@
   ],
 
   "announcement": {
-    "id": "2026-08-18-drill",
+    "id": "2026-08-18-expired",
     "enabled": true,
     "level": "warn",
-    "title": "209 公告通道真机验收",
+    "title": "这条已过期,绝不该出现",
     "message": "这是 209 发版前的公告链路验收，两小时后自动消失。只有 209 读得到这个字段，线上 207/208 完全看不到。",
     "startAt": "2026-08-18T11:25:38+08:00",
-    "expireAt": "2026-08-18T13:26:38+08:00",
+    "expireAt": "2026-08-18T11:39:11+08:00",
     "dismissible": true,
     "minVersionCode": 209
   },

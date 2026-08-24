@@ -80,8 +80,5 @@
     "externalHosts": [
       "pan.quark.cn"
     ]
-  },
-  "parserHotfix": {
-    "enabled": false
   }
 }

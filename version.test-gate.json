@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 999,
-  "latestVersionName": "9.9-GATE-TEST",
-  "minimumSupportedVersionCode": 999,
+  "latestVersionCode": 300,
+  "latestVersionName": "3.0",
+  "minimumSupportedVersionCode": 208,
   "updateMode": "force",
-  "title": "【内部门禁测试】请勿点击下载",
-  "message": "这是发版前的强更门验证，非真实更新。若你不是开发者看到这条，请忽略并联系我们。",
+  "title": "3.0",
+  "message": "内部测试配置。",
   "releaseNotes": [
     "保存大文件时可以切去别的应用，下载会在后台继续，不再中断。",
     "首页换成荷塘场景；设置里可开启蜻蜓动效（默认关闭）。",
@@ -45,6 +45,9 @@
   "platformPolicies": {
     "douyin": {
       "route": "cloud_first"
+    },
+    "weibo": {
+      "route": "cloud_only"
     }
   },
   "parserServices": {

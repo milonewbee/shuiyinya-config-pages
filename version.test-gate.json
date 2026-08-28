@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "appId": "watermark-duck",
-  "latestVersionCode": 301,
+  "latestVersionCode": 300,
   "latestVersionName": "3.0",
-  "minimumSupportedVersionCode": 301,
+  "minimumSupportedVersionCode": 300,
   "updateMode": "force",
   "title": "水印鸭 3.0 · 更清晰、更少失败",
   "message": "水印鸭承诺：绝不添加广告。这一版把画质、速度和成功率都往上抬了一档，旧版本已停止维护。",

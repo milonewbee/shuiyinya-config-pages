@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "appId": "watermark-duck",
+  "latestVersionCode": 208,
+  "latestVersionName": "2.2",
+  "minimumSupportedVersionCode": 207,
+  "updateMode": "optional",
+  "title": "水印鸭 2.2 功能更新",
+  "message": "新增系统分享入口，优化首次解析与全平台稳定性监测。水印鸭承诺：绝不添加广告。",
+  "releaseNotes": [
+    "支持抖音、快手、小红书、B站、微博、最右、皮皮虾、X（推特）、小米社区、西瓜视频、今日头条、QQ频道、贴吧、知乎、视频号、公众号、豆包、即梦、小云雀和剪映。",
+    "新增从其他 App 直接分享链接到水印鸭，自动识别平台并开始解析。",
+    "优化首次使用与解析入口，减少复制、切换和重复操作。",
+    "完善全平台稳定性监测、故障分类和安全降级，异常内容不再误报为解析成功。",
+    "优化版本更新流程，更新提示与渠道跳转更稳定。",
+    "水印鸭承诺：绝不添加广告。"
+  ],
+  "apkSize": "1.73 MB",
+  "sha256": "4158c26391303c169b7b79ef8f38214ce8920f59bdabd0fff5819427d105dd5b",
+  "publishedAt": "2026-07-17",
+  "downloadChannels": [
+    {
+      "name": "迅雷网盘",
+      "url": "https://pan.xunlei.com/s/VOxegxfzh7rDnjeHMZoMRG5DA1?pwd=9sjd#",
+      "primary": true
+    },
+    {
+      "name": "夸克网盘",
+      "url": "https://pan.quark.cn/s/b0f50ce469bb",
+      "primary": false
+    }
+  ],
+  "analytics": {
+    "enabled": true,
+    "endpoint": "https://analytics.milodev.cn/collect",
+    "sampleRate": 1,
+    "collectorKey": "9ef81ba7ffa3a8f30a7926cfb5feffb61de9e8b162c7b2478df4b3d263b0b45e"
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "",
+    "message": ""
+  },
+  "platformPolicies": {},
+  "parserServices": {
+    "generic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_mp": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_video": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/wechat-video"
+    },
+    "domestic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/domestic"
+    },
+    "doubao": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/doubao"
+    }
+  }
+}

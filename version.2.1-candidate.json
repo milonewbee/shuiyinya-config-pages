@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "appId": "watermark-duck",
+  "latestVersionCode": 207,
+  "latestVersionName": "2.1",
+  "minimumSupportedVersionCode": 200,
+  "updateMode": "optional",
+  "title": "水印鸭 2.1 更新",
+  "message": "新增更多国内公开分享平台，并继续改进图集、Live 图、媒体保存、设置和问题反馈体验。水印鸭坚持干净体验，不加广告、不打扰使用。部分 Beta 能力仍会受公开来源和服务状态影响。",
+  "releaseNotes": [
+    "支持抖音、快手、小红书、B站、微博、最右、皮皮虾、X（推特）、小米社区、西瓜视频、今日头条、QQ频道、贴吧、知乎、视频号、公众号、豆包、即梦、小云雀和剪映。",
+    "修复小红书图集与 Live 图原图来源识别，避免中央水印展示图被当作原图返回。",
+    "新增西瓜视频、今日头条、QQ频道、贴吧、知乎、即梦、剪映和小云雀等公开分享解析。",
+    "新增豆包公开视频无水印处理 Beta；能力受公开来源、处理额度和服务状态影响。",
+    "改进小红书、抖音、微博等平台的图集、Live 图识别与原图保存稳定性。",
+    "优化下载候选校验、保存进度和失败提示，减少损坏文件或错误媒体被当作成功结果。",
+    "优化设置页与意见反馈体验，键盘展开、弹层切换和页面返回更稳定。"
+  ],
+  "apkSize": "1.73 MB",
+  "sha256": "5f42115e6265ed9d44b9b1432ea4252f458451de8962100334da6f6a9204dc91",
+  "publishedAt": "2026-07-16",
+  "downloadChannels": [
+    {
+      "name": "迅雷网盘",
+      "url": "https://pan.xunlei.com/s/VOxegxfzh7rDnjeHMZoMRG5DA1?pwd=9sjd#",
+      "primary": true
+    },
+    {
+      "name": "夸克网盘",
+      "url": "https://pan.quark.cn/s/b0f50ce469bb",
+      "primary": false
+    }
+  ],
+  "analytics": {
+    "enabled": true,
+    "endpoint": "https://analytics.milodev.cn/collect",
+    "sampleRate": 1,
+    "collectorKey": "9ef81ba7ffa3a8f30a7926cfb5feffb61de9e8b162c7b2478df4b3d263b0b45e"
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "",
+    "message": ""
+  },
+  "platformPolicies": {
+    "xiaohongshu": {
+      "disabledMediaTypes": [],
+      "message": ""
+    }
+  },
+  "parserServices": {
+    "generic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_mp": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/public"
+    },
+    "wechat_video": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/wechat-video"
+    },
+    "domestic": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/domestic"
+    },
+    "doubao": {
+      "enabled": true,
+      "endpoint": "https://analytics.milodev.cn/parse/doubao"
+    }
+  }
+}

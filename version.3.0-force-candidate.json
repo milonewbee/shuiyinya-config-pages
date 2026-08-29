@@ -3,8 +3,8 @@
   "appId": "watermark-duck",
   "latestVersionCode": 300,
   "latestVersionName": "3.0",
-  "minimumSupportedVersionCode": 208,
-  "updateMode": "optional",
+  "minimumSupportedVersionCode": 300,
+  "updateMode": "force",
   "title": "水印鸭 3.0 · 更清晰、更少失败",
   "message": "水印鸭承诺：绝不添加广告，每次更新只为优化用户体验。旧版本已停止维护。",
   "releaseNotes": [
@@ -89,9 +89,6 @@
     "externalHosts": [
       "pan.quark.cn"
     ]
-  },
-  "parserHotfix": {
-    "enabled": true
   },
   "announcement": {
     "enabled": true,

@@ -90,9 +90,6 @@
       "pan.quark.cn"
     ]
   },
-  "parserHotfix": {
-    "enabled": true
-  },
   "announcement": {
     "enabled": true,
     "id": "wd-3.0-launch",

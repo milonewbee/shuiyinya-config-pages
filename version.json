@@ -95,10 +95,10 @@
   },
   "announcement": {
     "enabled": true,
-    "id": "wd-overseas-beta-20260904",
+    "id": "wd-overseas-beta-20260904b",
     "level": "info",
-    "title": "TikTok / Instagram / YouTube 测试版来了",
-    "message": "海外平台需要你的手机能连上它们。去荷塘搜「Beta」领取（网盘更新链接里也有），和正式版并存安装。",
+    "title": "海外平台：X / TikTok / Instagram / YouTube",
+    "message": "X 正式版已支持；TikTok / Instagram / YouTube 在测试版里。都需要你的手机能连上它们。去荷塘搜「Beta」领取（网盘更新链接里也有），和正式版并存安装。",
     "startAt": "2026-09-04T12:00:00Z",
     "expireAt": "2026-09-18T00:00:00Z",
     "dismissible": true

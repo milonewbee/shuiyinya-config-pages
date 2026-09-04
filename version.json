@@ -95,11 +95,12 @@
   },
   "announcement": {
     "enabled": true,
-    "id": "wd-doubao-fixed-20260830",
-    "level": "fix",
-    "title": "豆包去水印，修好了",
-    "message": "原画质无水印版本",
-    "expireAt": "2026-09-11T00:00:00Z",
+    "id": "wd-overseas-beta-20260904",
+    "level": "info",
+    "title": "TikTok / Instagram / YouTube 测试版来了",
+    "message": "海外平台需要你的手机能连上它们。去荷塘搜「Beta」领取（网盘更新链接里也有），和正式版并存安装。",
+    "startAt": "2026-09-04T12:00:00Z",
+    "expireAt": "2026-09-18T00:00:00Z",
     "dismissible": true
   }
 }

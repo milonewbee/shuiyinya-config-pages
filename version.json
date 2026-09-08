@@ -104,10 +104,10 @@
     "dismissible": true
   },
   "fanGroup": {
-    "enabled": true,
+    "enabled": false,
     "title": "迅雷群组",
     "intro": "群里长期分享影视、软件等资源文件。",
-    "code": "00000000",
+    "code": "",
     "codeLabel": "群号",
     "qrUrl": "",
     "qrLabel": "群二维码",

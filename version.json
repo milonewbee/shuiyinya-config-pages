@@ -111,9 +111,12 @@
         "id": "wechat",
         "title": "微信群",
         "intro": "",
-        "qrUrl": "",
+        "qrUrl": "https://analytics.milodev.cn/config/assets/wx-group.png",
         "qrLabel": "群二维码",
-        "note": "把二维码保存到相册，再用微信扫一扫、从相册选图加入。"
+        "qrExpiresAt": "",
+        "code": "",
+        "codeLabel": "微信号",
+        "note": "二维码过期了就复制微信号加我，我拉你进群。"
       },
       {
         "id": "xunlei",

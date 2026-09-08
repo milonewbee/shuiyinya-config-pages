@@ -105,12 +105,26 @@
   },
   "fanGroup": {
     "enabled": false,
-    "title": "迅雷群组",
-    "intro": "群里长期分享影视、软件等资源文件。",
-    "code": "",
-    "codeLabel": "群号",
-    "qrUrl": "",
-    "qrLabel": "群二维码",
-    "note": "复制群号后打开迅雷，搜索加入。"
+    "title": "粉丝群",
+    "groups": [
+      {
+        "id": "wechat",
+        "title": "微信群",
+        "intro": "",
+        "qrUrl": "",
+        "qrLabel": "群二维码",
+        "note": "把二维码保存到相册，再用微信扫一扫、从相册选图加入。"
+      },
+      {
+        "id": "xunlei",
+        "title": "迅雷群组",
+        "intro": "",
+        "code": "",
+        "codeLabel": "群号",
+        "qrUrl": "",
+        "qrLabel": "群二维码",
+        "note": ""
+      }
+    ]
   }
 }

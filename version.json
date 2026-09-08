@@ -102,5 +102,15 @@
     "startAt": "2026-09-04T12:00:00Z",
     "expireAt": "2026-09-18T00:00:00Z",
     "dismissible": true
+  },
+  "fanGroup": {
+    "enabled": true,
+    "title": "迅雷群组",
+    "intro": "群里长期分享影视、软件等资源文件。",
+    "code": "00000000",
+    "codeLabel": "群号",
+    "qrUrl": "",
+    "qrLabel": "群二维码",
+    "note": "复制群号后打开迅雷，搜索加入。"
   }
 }

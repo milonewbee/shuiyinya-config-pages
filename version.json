@@ -129,5 +129,28 @@
         "note": ""
       }
     ]
+  },
+  "boost": {
+    "enabled": false,
+    "title": "为服务器加油",
+    "message": "水印鸭靠网盘的活跃分成付服务器。转存一份文件就是在帮忙 —— 十几秒，不花钱。",
+    "thanks": "今天已经加过油了，谢谢你。明天还有一本新的。",
+    "files": [
+      {
+        "title": "《山海经》校注本",
+        "quarkUrl": "",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《梦溪笔谈》",
+        "quarkUrl": "",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《天工开物》",
+        "quarkUrl": "",
+        "xunleiUrl": ""
+      }
+    ]
   }
 }

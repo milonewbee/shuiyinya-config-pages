@@ -104,7 +104,7 @@
     "dismissible": true
   },
   "fanGroup": {
-    "enabled": false,
+    "enabled": true,
     "title": "粉丝群",
     "groups": [
       {
@@ -116,17 +116,20 @@
         "qrExpiresAt": "",
         "code": "",
         "codeLabel": "微信号",
-        "note": "二维码过期了就复制微信号加我，我拉你进群。"
+        "note": "二维码过期了就复制微信号加我，我拉你进群。",
+        "enabled": false
       },
       {
         "id": "xunlei",
         "title": "迅雷群组",
-        "intro": "",
-        "code": "",
+        "intro": "新版发布、平台改动、故障修复都会第一时间发在群里。",
+        "code": "1550274304",
         "codeLabel": "群号",
         "qrUrl": "",
         "qrLabel": "群二维码",
-        "note": ""
+        "note": "点上面的按钮直接进群；没装迅雷就复制群号，在迅雷里搜群号加入。",
+        "joinUrl": "https://sj-m-ssl.xunlei.com/group-invite?from_uid=831180210&group_id=1550274304&type=url",
+        "joinLabel": "打开迅雷加入"
       }
     ]
   },

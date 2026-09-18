@@ -91,7 +91,7 @@
     ]
   },
   "parserHotfix": {
-    "enabled": true
+    "enabled": false
   },
   "announcement": {
     "enabled": true,

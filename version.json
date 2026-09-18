@@ -134,24 +134,149 @@
     ]
   },
   "boost": {
-    "enabled": false,
+    "enabled": true,
     "title": "为服务器加油",
     "message": "水印鸭靠网盘的活跃分成付服务器。转存一份文件就是在帮忙 —— 十几秒，不花钱。",
     "thanks": "今天已经加过油了，谢谢你。明天还有一本新的。",
     "files": [
       {
-        "title": "《山海经》校注本",
-        "quarkUrl": "",
+        "title": "《金钱心理学》",
+        "quarkUrl": "https://pan.quark.cn/s/7a33c02088dc",
         "xunleiUrl": ""
       },
       {
-        "title": "《梦溪笔谈》",
-        "quarkUrl": "",
+        "title": "《家传秘制老卤卤汁》",
+        "quarkUrl": "https://pan.quark.cn/s/cdf54dea3afe",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《电脑组装维护维修全能一本通》",
+        "quarkUrl": "https://pan.quark.cn/s/d7259c6c967c",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《经济为什么会崩溃》",
+        "quarkUrl": "https://pan.quark.cn/s/2001de01f573",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《解决问题的策略与技能》",
+        "quarkUrl": "https://pan.quark.cn/s/ce7bedd94430",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《超级搜索术》",
+        "quarkUrl": "https://pan.quark.cn/s/4b624218ec8e",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《美国人每天说的话》",
+        "quarkUrl": "https://pan.quark.cn/s/35c4c3e7ffa8",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《怎样解题》",
+        "quarkUrl": "https://pan.quark.cn/s/99710f593a08",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《400种家制风味小吃》",
+        "quarkUrl": "https://pan.quark.cn/s/e32892db36bc",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《真希望我父母读过这本书》",
+        "quarkUrl": "https://pan.quark.cn/s/f8319ffbee16",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《金刚经修心课》",
+        "quarkUrl": "https://pan.quark.cn/s/8823d7425aa2",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《投资第一课》",
+        "quarkUrl": "https://pan.quark.cn/s/31e912db53da",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《薛兆丰经济学讲义》",
+        "quarkUrl": "https://pan.quark.cn/s/87aa1d09aeef",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《成功，动机与目标》",
+        "quarkUrl": "https://pan.quark.cn/s/53697d950018",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《孙子兵法·72张思维模型图》",
+        "quarkUrl": "https://pan.quark.cn/s/f85373249528",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《怎样训练说话的胆量》",
+        "quarkUrl": "https://pan.quark.cn/s/7264a6f8eff8",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《国家与生活机遇》",
+        "quarkUrl": "https://pan.quark.cn/s/4e79fc891ec4",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《津巴多的心理学》",
+        "quarkUrl": "https://pan.quark.cn/s/de0c938022d5",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《社会心理学》第10版",
+        "quarkUrl": "https://pan.quark.cn/s/b7c7f6ffeba4",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《古本竹书纪年》",
+        "quarkUrl": "https://pan.quark.cn/s/808bdcc1473e",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《玉髓真经》影印本",
+        "quarkUrl": "https://pan.quark.cn/s/5d368ea9f176",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《宋藏遗珍》3–5卷",
+        "quarkUrl": "https://pan.quark.cn/s/40456c527773",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《读书偶笔》",
+        "quarkUrl": "https://pan.quark.cn/s/03e8e11c63a5",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《黄石公素书》",
+        "quarkUrl": "https://pan.quark.cn/s/6f3540225419",
         "xunleiUrl": ""
       },
       {
         "title": "《天工开物》",
-        "quarkUrl": "",
+        "quarkUrl": "https://pan.quark.cn/s/e5feb9728414",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "《围棋古棋谱丛书》",
+        "quarkUrl": "https://pan.quark.cn/s/d33d60e8eecb",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "马王堆汉墓简帛集成",
+        "quarkUrl": "https://pan.quark.cn/s/75a4c475d89c",
+        "xunleiUrl": ""
+      },
+      {
+        "title": "岳麓书院藏秦简",
+        "quarkUrl": "https://pan.quark.cn/s/998489cae83a",
         "xunleiUrl": ""
       }
     ]

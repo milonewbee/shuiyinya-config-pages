@@ -80,7 +80,9 @@
     "url": "https://pond.milodev.cn",
     "title": "荷塘",
     "externalHosts": [
-      "pan.quark.cn"
+      "pan.quark.cn",
+      "pan.baidu.com",
+      "pan.xunlei.com"
     ]
   },
   "parserHotfix": {

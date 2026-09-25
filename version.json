@@ -90,12 +90,12 @@
   },
   "announcement": {
     "enabled": true,
-    "id": "wd-31-release-20260919",
+    "id": "wd-midautumn-20260925",
     "level": "info",
-    "title": "3.1 来了：贴纸主题 + 海外平台正式支持",
-    "message": "新增贴纸主题，默认开启，设置 → 主题 里可以换回原来的界面。TikTok / Instagram / YouTube 加进了正式版，需要你的手机本身能连上它们；连不上会直接提示。",
-    "startAt": "2026-09-19T00:00:00Z",
-    "expireAt": "2026-10-03T00:00:00Z",
+    "title": "中秋快乐，谢谢一路陪着水印鸭",
+    "message": "很多改进都来自你们的反馈。祝你和家人中秋团圆，假期愉快。",
+    "startAt": "2026-09-24T16:00:00Z",
+    "expireAt": "2026-09-27T16:00:00Z",
     "dismissible": true
   },
   "fanGroup": {
